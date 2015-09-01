@@ -1,6 +1,7 @@
 # ideas
 My todo list of data science/ visualization projects. 
 
+- Counting problems in probability are hard (for me). Making a visualization could help both me and future students.
 - Basic set theory interactive visualization/tutorial. 
 - Current wildfire locations in pretty format. [data](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/active-fire-data)
   - There could be a grid chart bellow to show how many fires are in different places. Sort by state. 
