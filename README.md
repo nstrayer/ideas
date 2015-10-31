@@ -1,6 +1,7 @@
 # ideas
 My todo list of data science/ visualization projects. 
 
+- Intro to website that allows you to mess around with the gamma distributions by messing with parameters alpha and beta. 
 - A d3 library that includes a series of common data explorations plots for stats. Could be turned into an R package as well.
 - Counting problems in probability are hard (for me). Making a visualization could help both me and future students.
 - Basic set theory interactive visualization/tutorial. 
