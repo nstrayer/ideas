@@ -1,6 +1,7 @@
 # ideas
 My todo list of data science/ visualization projects. 
 
+- [ ] Analysis of grant proposal word usage. E.g. how successful grants that include the word "microbiome" in them are. 
 - [ ] Bayesian methods for meta analysis
   - Utilizing a weight tied to the quality of the study to modify priors. Perhaps just in the utilization of credibility intervals. 
 - [ ] Intro to website that allows you to mess around with the gamma distributions by messing with parameters alpha and beta. 
