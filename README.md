@@ -1,6 +1,7 @@
 # ideas
-My todo list of data science/ visualization projects. 
+My todo list of data science/ visualization/ app projects. 
 
+- [ ] Spending app. Hooks up to something like mint and sends a text every day with money spent the past day, and how far off it is from what needs to be spent to meet savings goals. 
 - [ ] Analysis of grant proposal word usage. E.g. how successful grants that include the word "microbiome" in them are. 
 - [ ] Bayesian methods for meta analysis
   - Utilizing a weight tied to the quality of the study to modify priors. Perhaps just in the utilization of credibility intervals. 
