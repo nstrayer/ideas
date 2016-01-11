@@ -1,6 +1,8 @@
 # ideas
 My todo list of data science/ visualization/ app projects. 
 
+- [ ] Visualization of james-stein estimator shrinkage. 
+  - Allow the user to choose the underlying distribution that the groups draw their true means from and then show how different estimators reduce the overall squared error. 
 - [x] Spending app. Hooks up to something like mint and sends a text every day with money spent the past day, and how far off it is from what needs to be spent to meet savings goals. 
 - [ ] Analysis of grant proposal word usage. E.g. how successful grants that include the word "microbiome" in them are. 
 - [ ] Bayesian methods for meta analysis
