@@ -1,6 +1,11 @@
 # ideas
 My todo list of data science/ visualization/ app projects. 
 
+- [ ] Citizen science data entry: 
+  - Does allowing the user to enter data by selecting an area on a graph of other data, 
+    - Increase/decrease acuracy?
+    - Increase satisfaction or likelihood to repeat?
+    - Provide a better contextual environment for engagement?
 - [ ] Regression data exploration visualization
 - [ ] Regression evolutionary algorithm for dealing with huge numbers of regressors. 
 - [ ] Visualization of james-stein estimator shrinkage. 
