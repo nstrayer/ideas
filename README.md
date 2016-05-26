@@ -1,6 +1,8 @@
 # ideas
 My todo list of data science/ visualization/ app projects. 
 
+- [ ] A scrolling story of the bayesian and frequentist framework. 
+  - Lego blocks for the win. The adventures of Uncle Frequentist and Sister Bayesian. 
 - [ ] Regression data exploration visualization
 - [ ] Regression evolutionary algorithm for dealing with huge numbers of regressors. 
 - [ ] Visualization of james-stein estimator shrinkage. 
