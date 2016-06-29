@@ -1,6 +1,7 @@
 # ideas
 My todo list of data science/ visualization/ app projects. 
 
+- [ ] [How to clip voronoi](http://bl.ocks.org/jasondavies/d70baf034448ef7a52d1). One year later. 
 - [ ] A scrolling story of the bayesian and frequentist framework. 
   - Lego blocks for the win. The adventures of Uncle Frequentist and Sister Bayesian. 
 - [ ] Regression data exploration visualization
